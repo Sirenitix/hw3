@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/64843863/130363714-795c4772-6013-4dd1-81dd-8d27a6c9c98a.png)
+
 ## General info
 Book shopping App allows users to check for various Books.The project consists of list of Books displayed in various models and designs.
 	
