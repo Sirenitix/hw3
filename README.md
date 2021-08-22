@@ -1,5 +1,5 @@
 ## General info
-Book shopping App allows users to check for various Books.
+Book shopping App allows users to check for various Books.The project consists of list of Books displayed in various models and designs.
 	
 ## Technologies
 * Spring boot 
@@ -17,11 +17,11 @@ Run project:
 call java -jar target/BookShop-0.0.1-SNAPSHOT.jar
 ```
 
-For Linus run.sh (lin):
+For Linux(run.sh):
 
 ```
-printf build maven project
+Build maven project:
 mvn clean -DskipTests install -Drat.skip=true
-printf run project
+Run project:
 java -jar target/BookShop-0.0.1-SNAPSHOT.jar &
 ```
