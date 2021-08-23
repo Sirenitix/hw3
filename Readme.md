@@ -12,16 +12,16 @@ App allows users to check for various Books.The project consists of list of Book
 ## Setup
 For Windows(run.cmd):
 ```
-1 Step build maven project:
+1-Step(build maven project):
 call mvnw clean -Dmaven.test.skip package
-2 Step run project:
+2-Step(run project):
 call java -jar target/BookShop-0.0.1-SNAPSHOT.jar
 ```
 
 For Linux(run.sh):
 ```
-1 Step build maven project:
+1-Step(build maven project):
 mvn clean -DskipTests install -Drat.skip=true
-2 Step run project:
+2-Step(run project):
 java -jar target/BookShop-0.0.1-SNAPSHOT.jar &
 ```
