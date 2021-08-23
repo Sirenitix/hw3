@@ -10,7 +10,6 @@ Book shopping App allows users to check for various Books.The project consists o
 	
 ## Setup
 For Windows(run.cmd):
-
 ```
 Build maven project:
 call mvnw clean -Dmaven.test.skip package
@@ -19,7 +18,6 @@ call java -jar target/BookShop-0.0.1-SNAPSHOT.jar
 ```
 
 For Linux(run.sh):
-
 ```
 Build maven project:
 mvn clean -DskipTests install -Drat.skip=true
